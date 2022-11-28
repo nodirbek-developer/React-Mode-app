@@ -1,0 +1,11 @@
+.Body{
+    height: 83vh;
+}
+.footertext{
+    position: relative;
+    left: 38rem;
+}
+.form-select{
+    width: 9rem !important;
+    margin-right: 1rem;
+}
